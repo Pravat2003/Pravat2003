@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pravt Kumar Dalai</h1>
+<h2 align="center">Hi 👋, I'm Pravt Kumar Dalai</h2>
 
 <h3 align="left">About Me:</h3>
 Experienced .NET Full Stack Developer with 9 years in crafting innovative solutions using .NET Core, Azure, Angular, React, and Open AI.
