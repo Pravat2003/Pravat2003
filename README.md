@@ -7,6 +7,16 @@ Specializing in .NET, .NET Core, Azure, Entity Framework, LINQ, MVC, Web Api, Az
 
 Experience in Azure Logic apps, Azure Service Bus, Azure SQL, Key Vault, Azure Functions, Azure Blob Storage, Cosmos DB, Azure Cognitive Search, Azure AD, APIM Management & App Service.
 
+<h3 align="left">Skills:</h3>
+<ul>
+  <li>C#</li>
+   <li>.NET CORE</li>
+   <li>AZURE</li>
+   <li>REACT</li>
+   <li>ANGULAR</li>
+   <li>OPEN AI</li>
+   <li>SQL SERVER</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
