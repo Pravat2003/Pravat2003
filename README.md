@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pravt Kumar Dalai</h1>
-<h3 align="center">I am</h3>
 
 <h3 align="left">About Me:</h3>
 Experienced .NET Full Stack Developer with 9 years in crafting innovative solutions using .NET Core, Azure, Angular, React, and Open AI.
@@ -8,11 +7,6 @@ Specializing in .NET, .NET Core, Azure, Entity Framework, LINQ, MVC, Web Api, Az
 
 Experience in Azure Logic apps, Azure Service Bus, Azure SQL, Key Vault, Azure Functions, Azure Blob Storage, Cosmos DB, Azure Cognitive Search, Azure AD, APIM Management & App Service.
 
-I'm having strong knowledge in architecture with design pattern (both backend and frontend).
-
-Have Strong interpersonal skills with the ability to interact with end-users, managers, technical personnel, etc. Excellent work ethics and team oriented with strong analytical and leadership qualities.
-
-Enthusiastic team player, self-motivated and goal oriented. Efficient time and task management skills and able to work independently to achieve complex objectives.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
