@@ -21,5 +21,5 @@ Experience in Azure Logic apps, Azure Service Bus, Azure SQL, Key Vault, Azure F
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<a href="https://www.linkedin.com/in/pravatdalai/" >Linked In</a>
+<a href="https://www.linkedin.com/in/pravatdalai/" target="_blank" >LinkedIn</a>
 
